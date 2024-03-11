@@ -32,5 +32,5 @@ Key Findings:
 The analysis of the student scores dataset provides valuable insights into factors influencing academic performance. While certain variables such as gender and parental education demonstrate notable associations with students' scores, further investigation is needed to understand the underlying mechanisms fully. This analysis can serve as a foundation for implementing targeted interventions and policies aimed at improving educational outcomes for students.
 
 # Language used:
-> Python
 > Jupyter Notebook
+> Python
